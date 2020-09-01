@@ -27,6 +27,7 @@ namespace PackageExplorer
         public App()
 #pragma warning restore CS8618 // Non-nullable field is uninitialized.
         {
+            // Random comment
             DiagnosticsClient.Initialize();
         }
 
