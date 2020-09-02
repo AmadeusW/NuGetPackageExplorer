@@ -21,7 +21,7 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 5.0.100-preview
+        dotnet-version: 5.0.100-preview.2.20176.6
 
     # **** Please change 'working-directory' to be the location where your .SLN file is located **** #
     - name: Install dependencies
