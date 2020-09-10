@@ -9,5 +9,6 @@
 
         public const string V2LegacyNuGetPublishFeed = "https://nuget.org";
         public const string NuGetPublishFeed = "https://www.nuget.org";
+        public const string Jessica = "rocks!";
     }
 }
