@@ -18,6 +18,7 @@ namespace PackageExplorer
 
         #region IValueConverter Members
 
+        // Converts stuff 
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
             var boolValue = (bool)value;
